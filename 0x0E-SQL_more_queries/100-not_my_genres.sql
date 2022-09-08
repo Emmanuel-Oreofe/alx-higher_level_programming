@@ -1,4 +1,4 @@
- with column values in a set formed
+-- Prints records with column values in a set formed
 -- from the intersection of multiple tables
 SELECT DISTINCT name
     FROM tv_genres
